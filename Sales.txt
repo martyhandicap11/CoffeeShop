@@ -1,0 +1,18 @@
+
+***********Purchase Record*************
+
+1Coffee=3.0
+
+1Tea=2.0
+
+2Scone=8.0
+
+0Sandwich=0.0
+
+2Latte=6.0
+
+0Exspresso=0.0
+
+==========================================
+
+Final Total=19.0
